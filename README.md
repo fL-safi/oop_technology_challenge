@@ -1,3 +1,7 @@
+The task was assign to make two components of design. Here it is 
+I use module css for the design.
+Please install all dependencies by npm install and then start on your local host by npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
